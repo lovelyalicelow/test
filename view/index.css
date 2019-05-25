@@ -1,3 +1,4 @@
 .index{color: #000;}
+.index .mask{background: #000;font-size: 24px;}
 .index .header{height: 30px;}
 .index .footer{width: 100%;}
